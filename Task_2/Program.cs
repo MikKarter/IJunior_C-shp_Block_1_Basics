@@ -20,7 +20,6 @@ namespace Task_2
             ulong counterLivesEnemy = 43;
             bool BossDeath = false;
             string FinalCredits = "All variables declared, done!";
-
         }
     }
 }
