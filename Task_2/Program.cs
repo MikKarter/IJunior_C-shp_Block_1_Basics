@@ -18,8 +18,8 @@ namespace Task_2
             sbyte counterDeaths = 4;
             long counterSteps = 1540;
             ulong counterLivesEnemy = 43;
-            bool BossDeath = false;
-            string FinalCredits = "All variables declared, done!";
+            bool bossDeath = false;
+            string finalCredits = "All variables declared, done!";
         }
     }
 }
