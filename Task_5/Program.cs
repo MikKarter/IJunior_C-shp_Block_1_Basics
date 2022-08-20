@@ -19,7 +19,6 @@ namespace Task_5
             userName = userSurname;
             userSurname = bufferString;
             Console.WriteLine("\nТеперь порядок, ваше Имя - " + userName + " ,а ваша фамилия - " + userSurname);
-
         }
     }
 }
