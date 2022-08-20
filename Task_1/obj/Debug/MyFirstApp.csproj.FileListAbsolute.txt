@@ -1,0 +1,8 @@
+D:\Unity\Learning_iJunior\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+D:\Unity\Learning_iJunior\MyFirstApp\obj\Debug\MyFirstApp.csproj.SuggestedBindingRedirects.cache
+D:\Unity\Learning_iJunior\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\Unity\Learning_iJunior\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+D:\Unity\Learning_iJunior\MyFirstApp\bin\Debug\MyFirstApp.exe
+D:\Unity\Learning_iJunior\MyFirstApp\bin\Debug\MyFirstApp.pdb
+D:\Unity\Learning_iJunior\MyFirstApp\obj\Debug\MyFirstApp.exe
+D:\Unity\Learning_iJunior\MyFirstApp\obj\Debug\MyFirstApp.pdb
