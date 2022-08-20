@@ -11,13 +11,12 @@ namespace Task_4
         static void Main(string[] args)
         {
             Console.WriteLine("Мы ради приветствовать нового пользователя. Представьтесь, пожалуйста.");
-            string newUserName = Console.ReadLine();
+            string userName = Console.ReadLine();
             Console.WriteLine("Сколько вам лет?");
-            string newUserAge = Console.ReadLine();
+            string userAge = Console.ReadLine();
             Console.WriteLine("Подскажите ваш знак зодиака?");
-            string newUserZodiak = Console.ReadLine();
-            Console.WriteLine("Вас зовут " + newUserName + "\nВаш возраст: " + newUserAge + "\nПо знаку Зодиака вы - " + newUserZodiak);
-
+            string userZodiak = Console.ReadLine();
+            Console.WriteLine("Вас зовут " + userName + "\nВаш возраст: " + userAge + "\nПо знаку Зодиака вы - " + userZodiak);
         }
     }
 }
